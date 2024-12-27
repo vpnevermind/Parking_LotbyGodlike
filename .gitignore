@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Parking Lot/*
+!/Parking Lot/task/
+/Parking Lot/task/*
+!/Parking Lot/task/src
+
+# Project exclude paths
+/Topics/Loops  repeat statement/Maximum element divisible by 4/out/
+/Topics/Loops  repeat statement/Maximum element divisible by 4/out/production/classes/
+/Topics/Reading data with readln/Summing up space-separated integers from a string/out/
+/Topics/Reading data with readln/Summing up space-separated integers from a string/out/production/classes/
+/Topics/While loops/Asterisk patterns for positive integers/out/
+/Topics/While loops/Asterisk patterns for positive integers/out/production/classes/
